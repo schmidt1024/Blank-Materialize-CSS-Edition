@@ -5,7 +5,7 @@ for faster and easier web development.
 
 ## Functions
 
-* Develop with bootstrap for responsive web design
+* Materialize for developing responsive web design
 * Scalable and customizable vector icons
 * Customizable error, offline and print page
 
@@ -23,7 +23,7 @@ for faster and easier web development.
 
 ## Blank
 
-Take a look at [Blank without Bootstrap](https://github.com/Bloggerschmidt/Blank).
+Take a look at [Blank without Materialize](https://github.com/Bloggerschmidt/Blank).
 
 ## Licence
 
